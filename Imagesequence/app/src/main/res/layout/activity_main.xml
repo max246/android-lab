@@ -8,7 +8,7 @@
     <view
         android:layout_width="200dp"
         android:layout_height="100dp"
-        class="ch.max246.imagesequence.view.ImageView"
+        class="ch.max246.imagesequence.view.ImageSeqView"
         android:id="@+id/view"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"

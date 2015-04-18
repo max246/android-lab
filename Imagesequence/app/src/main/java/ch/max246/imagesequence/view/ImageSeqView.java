@@ -1,4 +1,4 @@
-package ch.max246.imagesequence.activity.view;
+package ch.max246.imagesequence.view;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -109,7 +109,7 @@ public class ImageSeqView extends View {
         }
 
         try {
-            Thread.sleep(15);
+            Thread.sleep(35);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
